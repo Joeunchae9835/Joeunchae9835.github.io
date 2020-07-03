@@ -1,5 +1,6 @@
 <details>
-<summary># 자기소개</summary>
+<summary>1. 자기소개
+        : 안녕하세요. 저는...</summary>
 <div markdown="1">
 
 # 자기소개  
