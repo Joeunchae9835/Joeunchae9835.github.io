@@ -50,7 +50,7 @@
 
 
 
-=====
+-----   
 #2. 2020-1학기
 <details>
 <summary>: 이번 학기 시간표와 배운 과목</summary>
@@ -100,7 +100,7 @@
 
 
 
-=====
+----- 
 #3. 이번 학기에 인상 깊었던 내용
 <details>
 <summary>: 피보나치 수열</summary>
@@ -120,16 +120,16 @@ def fib(n):
 2. 긴 코드   
 ```
 def new_fib(n):
-  if n < 3:
-    return 2
-  else:
-    prev_prev = 1
-    prev = 1
-    for i in range(3, n + 1):
-      new = prev + prev_prev
-      prev_prev = prev
-      prev = new
-  return new
+    if n < 3:
+        return 2
+    else:
+        prev_prev = 1
+        prev = 1
+        for i in range(3, n + 1):
+            new = prev + prev_prev
+            prev_prev = prev
+            prev = new
+    return new
 ```
 
 </div>
