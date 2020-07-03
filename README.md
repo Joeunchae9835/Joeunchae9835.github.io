@@ -25,10 +25,8 @@
 ![에코](~/git/Joeunchae9835.github.io/images/cat_2.png){: height="50%" width="50%"}
 
 <html>
-<body>
-    <img scr="~/git/Joeunchae9835.github.io/images/cat_1.png" height="50%" width="50%">
-    <img scr="~/git/Joeunchae9835.github.io/images/cat_2.png" height="50%" width="50%">
-</body>
+  <img scr="~/git/Joeunchae9835.github.io/images/cat_1.png" height="50%" width="50%">
+  <img scr="~/git/Joeunchae9835.github.io/images/cat_2.png" height="50%" width="50%">
 </html>
 -----
 
