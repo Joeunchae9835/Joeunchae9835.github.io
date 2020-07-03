@@ -101,15 +101,36 @@
 
 
 
-#3. 
+#3. 이번 학기에 인상 깊었던 내용
 <details>
-<summary>3.
-  <p>   : dfd</p>
-</summary>
+<summary>: 피보나치 수열</summary>
 <div markdown="1">
+
+간단한 코드가 더 효율적이고 빠를 거라고 생각했는데, 이 피보나치 수열을 계산하는 프로그램을 통해 코드의 길이와 성능이 비례하지 않다는 것을 알게 되었습니다.   
+
+1. 짧은 코드   
+```
+def fib(n):
+    if n < 3:
+        return 1
+    else:
+        return (fib(n-1) + fib(n-2))
+```
+
+2. 긴 코드   
+```
+def new_fib(n):
+  if n < 3:
+    return 2
+  else:
+    prev_prev = 1
+    prev = 1
+    for i in range(3, n + 1):
+      new = prev + prev_prev
+      prev_prev = prev
+      prev = new
+  return new
+```
 
 </div>
 </details>
-
-
-
