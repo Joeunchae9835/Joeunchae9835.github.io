@@ -1,7 +1,6 @@
+#1. 자기소개
 <details>
-<summary>1. 자기소개
-  <p>   : 안녕하세요. 저는...</p>
-</summary>
+<summary>: 안녕하세요. 저는...</summary>
 <div markdown="1">
 
 # 자기소개  
@@ -23,13 +22,8 @@
 학기 중에는 고양이를 자주 볼 수가 없으니까요......   
 ~~사실 고양이 자랑하려고 고민이라고 한거에요ㅎㅎㅎ~~
 
-![쿠로](~/git/Joeunchae9835.github.io/images/cat_1.png){: height="50%" width="50%"}
-![에코](~/git/Joeunchae9835.github.io/images/cat_2.png){: height="50%" width="50%"}
+![쿠로](~/git/Joeunchae9835.github.io/images/cat_1.png)
 
-<html>
-  <img scr="~/git/Joeunchae9835.github.io/images/cat_1.png" height="50%" width="50%">
-  <img scr="~/git/Joeunchae9835.github.io/images/cat_2.png" height="50%" width="50%">
-</html>
 -----
 
 최근 코로나 때문에 밖에 잘 못나가서 생긴 취미가 하나있는데요.   
@@ -57,10 +51,9 @@
 
 
 
+#2. 2020-1학기
 <details>
-<summary>2. 2020-1학기
-  <p>   : 이번 학기 시간표와 배운 과목</p>
-</summary>
+<summary>: 이번 학기 시간표와 배운 과목</summary>
 <div markdown="1">
 
 # 2020-1학기
@@ -105,6 +98,10 @@
 </details>
 
 
+
+
+
+#3. 
 <details>
 <summary>3.
   <p>   : dfd</p>
