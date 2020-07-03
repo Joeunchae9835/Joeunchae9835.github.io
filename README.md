@@ -1,3 +1,7 @@
+<details>
+<summary># 자기소개</summary>
+<div markdown="1">
+
 # 자기소개  
 
 안녕하세요. 저는 조은채입니다.
@@ -20,6 +24,12 @@
 ![쿠로](~/git/Joeunchae9835.github.io/images/cat_1.png){: height="50%" width="50%"}
 ![에코](~/git/Joeunchae9835.github.io/images/cat_2.png){: height="50%" width="50%"}
 
+<html>
+<body>
+    <img scr="~/git/Joeunchae9835.github.io/images/cat_1.png" height="50%" width="50%">
+    <img scr="~/git/Joeunchae9835.github.io/images/cat_2.png" height="50%" width="50%">
+</body>
+</html>
 -----
 
 최근 코로나 때문에 밖에 잘 못나가서 생긴 취미가 하나있는데요.   
@@ -36,6 +46,9 @@
 
 -----
 
-|주소          |전화번호     |e-mail             |
+|주소           |전화번호     |e-mail             |
 |:-------------:|:-----------:|:-----------------:|
 |경상남도 함안군|010-3940-XXXX|dmsco9835@naver.com|
+
+</div>
+</details>
