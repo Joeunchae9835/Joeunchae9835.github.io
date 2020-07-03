@@ -1,7 +1,7 @@
 # 1. 자기소개
 
 <details>
-<summary>: 안녕하세요. 저는...</summary>
+<summary>: **안녕하세요. 저는...**</summary>
 <div markdown="1">
 
 안녕하세요. 저는 조은채입니다.
@@ -40,9 +40,9 @@
 -----
 
 연락처
-|전화번호     |e-mail             |
-|:-----------:|:-----------------:|
-|010-3940-XXXX|dmsco9835@naver.com|
+|전화번호|e-mail|
+|:---:|:---:|
+|010-3940-XXXX|dmsco9835@naver.vom|
 
 </div>
 </details>
