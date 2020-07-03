@@ -34,8 +34,8 @@
 원래 악기에는 별 관심이 없었는데 유튜브 채널 [**'위키위키(WIKIWIKI)'**](https://www.youtube.com/user/WIKIWIKISHOP)를 보고 나서 '저건 사야해!'하는 생각이 들어서 사버렸죠.  
 
 지금 연주할 수 있는 곡은  
-  1. See you again  
-  2. Summer - 기쿠로지의 여름 OST  
+    1. See you again  
+    2. Summer - 기쿠로지의 여름 OST  
 두 곡입니다.  
 
 칼림바 외에 원래 가지고 있던 취미로는 뜨개질, 페이터 커팅, 피포 페인팅(ex. 명화 그리기) 정도가 있습니다.  
