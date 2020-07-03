@@ -1,6 +1,5 @@
 <details>
-<summary>
-  <p>1. 자기소개</p>
+<summary>1. 자기소개
   <p> : 안녕하세요. 저는...</p>
 </summary>
 <div markdown="1">
@@ -54,10 +53,15 @@
 </div>
 </details>
 
+
 <details>
-<summary>1. 자기소개
-        : 안녕하세요. 저는...</summary>
+<summary>
+  <p>1. 자기소개</p>
+  <p> : 안녕하세요. 저는...</p>
+</summary>
 <div markdown="1">
+
+
 
 </div>
 </details>
