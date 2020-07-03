@@ -123,7 +123,10 @@ def fib(n):
         return 1
     else:
         return (fib(n-1) + fib(n-2))
-```
+```  
+
+이렇게 동작합니다.  
+![fib](./images/fib_num.png "출처 : 김응희 교수님 수업자료, 'week_13_데이터사이언스구조', p.117")
 
 2. 긴 코드  
 ```
