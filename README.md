@@ -17,8 +17,8 @@
 학기 중에는 고양이를 자주 볼 수가 없으니까요......   
 ~~사실 고양이 자랑하려고 고민이라고 한거에요ㅎㅎㅎ~~
 
-<img scr="~/git/Joeunchae9835.github.io/images/cat_1.png" height="50%" width="50%">
-<img scr="~/git/Joeunchae9835.github.io/images/cat_2.png" height="50%" width="50%">
+![쿠로](~/git/Joeunchae9835.github.io/images/cat_1.png){: height="50%" width="50%"}
+![에코](~/git/Joeunchae9835.github.io/images/cat_2.png){: height="50%" width="50%"}
 
 -----
 
