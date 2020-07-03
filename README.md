@@ -1,6 +1,8 @@
 <details>
-<summary>1. 자기소개
-        : 안녕하세요. 저는...</summary>
+<summary>
+  <p>1. 자기소개</p>
+  <p> : 안녕하세요. 저는...</p>
+</summary>
 <div markdown="1">
 
 # 자기소개  
@@ -48,6 +50,14 @@
 |주소           |전화번호     |e-mail             |
 |:-------------:|:-----------:|:-----------------:|
 |경상남도 함안군|010-3940-XXXX|dmsco9835@naver.com|
+
+</div>
+</details>
+
+<details>
+<summary>1. 자기소개
+        : 안녕하세요. 저는...</summary>
+<div markdown="1">
 
 </div>
 </details>
